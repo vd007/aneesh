@@ -1,0 +1,42 @@
+[
+  {
+    "id": "annual",
+    "type": "Annual report",
+    "title": "The India Real Estate Perspective",
+    "subtitle": "A family office lens on markets, land and long-term ownership.",
+    "image": "district",
+    "file": "SAARTHI-Annual-Research-2026-Sample.pdf",
+    "pages": 7,
+    "size": "0.5 MB"
+  },
+  {
+    "id": "corridors",
+    "type": "Thematic report",
+    "title": "Infrastructure & the Next Catchment",
+    "subtitle": "A research framework for corridors, access and emerging locations.",
+    "image": "infrastructure",
+    "file": "SAARTHI-Infrastructure-Research-Sample.pdf",
+    "pages": 3,
+    "size": "0.6 MB"
+  },
+  {
+    "id": "land",
+    "type": "Land intelligence",
+    "title": "The Parcel Perspective",
+    "subtitle": "A structured brief for understanding land and development questions.",
+    "image": "land",
+    "file": "SAARTHI-Land-Research-Sample.pdf",
+    "pages": 3,
+    "size": "0.6 MB"
+  },
+  {
+    "id": "portfolio",
+    "type": "Portfolio research",
+    "title": "The Family Real Estate Lens",
+    "subtitle": "A common language for holdings, dependencies and review priorities.",
+    "image": "office",
+    "file": "SAARTHI-Portfolio-Research-Sample.pdf",
+    "pages": 3,
+    "size": "0.5 MB"
+  }
+]
